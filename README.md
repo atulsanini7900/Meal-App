@@ -33,7 +33,7 @@ JavaScript
 
 Demo
 
-Check out the live demo of the application here.
+Check out the live demo of the application here https://atulsanini7900.github.io/Meal-App/
 
 Author
 
